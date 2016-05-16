@@ -1,3 +1,3 @@
 # Sendgrid-emails
-Sendgrid responsive email layouts
-Image files are already in sendgrid system
+- Sendgrid responsive email layouts
+- Images are alradey uploaded to sendgrid system
